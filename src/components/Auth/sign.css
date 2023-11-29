@@ -13,9 +13,7 @@
     margin: 0px auto;
     width: 400px;
     margin-top: 100px;
-    border-top: 5px solid #218B82;
-    border-radius: 10px; /* Add rounded corners to the container */
-  transition: 0.5s ease-in-out; /* Add transition to the container */
+    border-top: 5px solid #fed700;
 }
 .main_container_signup .header
 {
@@ -34,8 +32,6 @@
 {
     width: 100%;
     margin-top: 10px;
-    border-radius: 5px; /* Add rounded corners to the boxes */
-  transition: 0.5s ease-in-out; 
 }
 .main_container_signup .box input
 {
@@ -64,7 +60,7 @@
     padding: 10px 30px;
     border: none;
     outline: none;
-    background: #218B82;
+    background: #fed700;
     border-radius: 5px;
     color: #232323;
     font-weight: 600;
