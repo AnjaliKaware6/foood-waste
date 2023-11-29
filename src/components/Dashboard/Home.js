@@ -1,5 +1,5 @@
 import Navb from "./Essentials/Navbar";
-import BrandLogo from "../../assets/images/logo12.png";
+import BrandLogo from "../../assets/images/logo.jpg";
 
 function Home() {
   return (

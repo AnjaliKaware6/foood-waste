@@ -1,6 +1,6 @@
 import { Container, Navbar, Nav } from "react-bootstrap";
 import { Link } from "react-router-dom";
-import BrandLogo from "../../../assets/images/logo12.png";
+import BrandLogo from "../../../assets/images/logo.jpg";
 import Cookies from "js-cookie";
 import firebase from '../../../firebase-config'
 
