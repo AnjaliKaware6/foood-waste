@@ -16,6 +16,12 @@
     border-top: 5px solid #fed700;
 
 }
+.main_container_signup {
+    background: url('"C:\Users\Hp\Desktop\img.jpg"');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
 .main_container_signup .header
 {
     width: 100%;
