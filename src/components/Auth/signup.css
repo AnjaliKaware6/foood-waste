@@ -9,12 +9,11 @@
 .main_container_signup
 {
     background: #f6f6f6;
-    display: flex;
-    padding: 90px 0 90px 0;
+    padding: 20px 30px;
     margin: 0px auto;
     width: 400px;
     margin-top: 100px;
-    border-top: 5px solid #218B82;
+    border-top: 5px solid #fed700;
 
 }
 .main_container_signup .header
@@ -32,15 +31,8 @@
 }
 .main_container_signup .box
 {
-    display: flex;
-    justify-content: center;
-    height: 550px;
-    width: 35%;
-    box-shadow: 11px 12px 13px 12px rgb(207,207,207);
-    padding-top: 30px;
-    border-radius: 60px;
-    background-color: white;
-   
+    width: 100%;
+    margin-top: 10px;
 }
 .main_container_signup .box input
 {
@@ -80,7 +72,7 @@
     padding: 10px 30px;
     border: none;
     outline: none;
-    background: #218B82;
+    background: #fed700;
     border-radius: 5px;
     color: #232323;
     font-weight: 600;
